@@ -1,0 +1,19 @@
+{
+  "name": "aoc-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umitao/aoc2021.git"
+  },
+  "author": "Umit Oner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umitao/aoc2021/issues"
+  },
+  "homepage": "https://github.com/umitao/aoc2021#readme"
+}
