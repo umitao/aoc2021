@@ -25,6 +25,6 @@ const mapped = arrayData.map((element) => {
   }
 });
 
-console.log(forward);
-console.log(down);
+console.log(forward); //2053
+console.log(down); //1033
 console.log(2053 * 1033);
